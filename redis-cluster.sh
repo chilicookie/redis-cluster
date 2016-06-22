@@ -1,5 +1,5 @@
 #!/bin/sh
-REDIS_PATH="/santorini/benefit/redis"
+REDIS_PATH="/redis"
 mkdir -p $REDIS_PATH
 
 echo "Configuring Redis Nodes..."
